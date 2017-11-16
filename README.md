@@ -1,0 +1,2 @@
+# OpenSKD
+Aplikasi Keuangan Desa
